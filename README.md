@@ -5,6 +5,8 @@ Git is a distributed version control system: tracking changes in any set of file
 
 This tutorial is designed to learn Git and GitHub.  It contains a couple of simple example files to work with.  It also includes other files that are included when setting up an Git environment.
 
+Project Status: Stable, no expected changes (2022-12-22)
+
 ## What are the branches for ...
 
 * main - the stable branch.  Only stable releases should be put into this branch. (long term branch)
@@ -70,3 +72,4 @@ melissa@linux:~/Projects/git-tutorial (main *+%)$
 * Git Overview Book -- http://git-scm.com/book/en/v2
 * Git flow -- 
 * https://github.com/nvie/gitflow/wiki
+
