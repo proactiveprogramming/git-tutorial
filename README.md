@@ -68,3 +68,5 @@ melissa@linux:~/Projects/git-tutorial (main *+%)$
 * Git and GitHub.com cheat sheet -- https://education.github.com/git-cheat-sheet-education.pdf
 * Git Reference Manual -- http://git-scm.com/docs
 * Git Overview Book -- http://git-scm.com/book/en/v2
+* Git flow -- 
+* https://github.com/nvie/gitflow/wiki
