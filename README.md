@@ -19,16 +19,21 @@ This tutorial is designed to learn Git and GitHub.  It contains a couple of simp
 melissa@linux:~/Projects/git-tutorial (main *+%)$ 
 </pre>
 
+**Parts of our prompt**
+
 * melissa@linux -- our username and hose (standard Linux prompt)
 * ~/Projects/git-tutorial -- our directory
 * (main *+%) -- (<branch> <git status codes>)
-..* Unstaged "*"
-..* Staged "+"
-..* Stashed "$"
-..* Untracked "%"
-..* Files behind git "<"
-..* Files ahead of git ">"
-..* Upstream "@" 
+
+**What the git codes mean**
+
+* Unstaged "*"
+* Staged "+"
+* Stashed "$"
+* Untracked "%"
+* Files behind git "<"
+* Files ahead of git ">"
+* Upstream "@" 
 
 ## What do the different terms mean
 
