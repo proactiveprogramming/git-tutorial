@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+*.o
+*.tmp
+*swp
+*~
+
+# Stores local settings, including usernames and passwords.
+LocalSettings.php
+w/LocalSettings.php 
+

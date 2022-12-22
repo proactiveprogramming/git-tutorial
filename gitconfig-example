@@ -1,0 +1,32 @@
+[user]
+	email = melissa@newmanfamily.org
+	name = Melissa Janine Newman (proactiveprogramming)
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential]
+	helper = cache
+
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /home/melissa/.gitignore-global
+	editor = kate
+[color]
+	ui = auto
+[diff]
+	indentHeuristic = true
+[gitflow "branch"]
+	master = main
+	develop = dev
+[gitflow "prefix"]
+	feature = feature/
+	bugfix = bugfix/
+	release = release/
+	hotfix = hotfix/
+	support = client/
+	versiontag = v
+[gitflow]
+	origin = origin

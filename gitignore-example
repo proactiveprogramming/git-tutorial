@@ -1,0 +1,11 @@
+# Global ignore files 
+*.log
+*.o
+*.tmp
+*swp
+*~
+
+# ignore all .txt files
+*.txt 
+
+
